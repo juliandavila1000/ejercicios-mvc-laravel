@@ -22,6 +22,10 @@ cd ejercicios-mvc-laravel
 ### Paso 2: Instalar Dependencias
 
 ```bash
+npm install
+```
+
+```bash
 composer install
 ```
 
