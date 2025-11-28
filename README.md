@@ -27,6 +27,9 @@ composer install
 
 ### Paso 3: Configurar el Entorno
 
+- Modificar archivo **env.example** por **.env**
+
+- Ejecutar el comando
 ```bash
 php artisan key:generate
 ```
